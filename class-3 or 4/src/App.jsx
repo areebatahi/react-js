@@ -1,6 +1,7 @@
 import './App.css'
 import BlogCard from './components/blogCard'
 import Card from './components/card'
+import Footer from './components/footer'
 import Navbar from './components/Navbar'
 
 function App() {
@@ -22,6 +23,8 @@ function App() {
         <BlogCard blogHeading="Learn Javascript" />
         <BlogCard blogHeading="Learn Go Lang" />
       </div>
+      <Footer />
+      <div className="bgBlack p-2 center">@RidhoSatriawan</div>
     </>
   )
 }

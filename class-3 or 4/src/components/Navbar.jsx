@@ -56,7 +56,7 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
-            <div className="container-flui">
+            <div className="container-fluid">
                 <div className="row bg-gray pt-5 center">
                     <h1 className="heading">Services</h1>
                     <p className="color-gray" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique elit nec malesuada tincidunt. Pellentesque lobortis.</p>
